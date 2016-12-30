@@ -1,0 +1,6 @@
+D:\Projekte\dev\EnumGenerator\bin\Debug\EnumGenerator.dll
+D:\Projekte\dev\EnumGenerator\bin\Debug\EnumGenerator.pdb
+D:\Projekte\dev\EnumGenerator\obj\Debug\EnumGenerator.dll
+D:\Projekte\dev\EnumGenerator\obj\Debug\EnumGenerator.pdb
+D:\Projekte\dev\EnumGenerator\bin\Debug\EnumGenerator.tlb
+D:\Projekte\dev\EnumGenerator\obj\Debug\EnumGenerator.csprojResolveAssemblyReference.cache
