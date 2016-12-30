@@ -90,7 +90,7 @@ namespace EnumGenerator
 
             result.AppendLine("    };");
             result.AppendLine("");
-            result.AppendLine("    static ::std::string ToString(const Enum e)");
+            result.AppendLine("    static ::std::string ToString(const Enum& e)");
             result.AppendLine("    {");
             result.AppendLine("        ::std::string ret;");
             result.AppendLine("        switch (e)");
