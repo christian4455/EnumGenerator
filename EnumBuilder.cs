@@ -98,7 +98,7 @@ namespace EnumGenerator
             
             foreach (Tuple<string, Tuple<int, bool>> v in values)
             {
-                result.AppendLine("            case " + v.Item1 + ": ret = \"" + v.Item1 + " \"; break;");
+                result.AppendLine("            case " + v.Item1 + ": ret = \"" + v.Item1 + "\"; break;");
             }
 
             result.AppendLine("        // no default case since we want to get a compiler warning in case enum value is added");
